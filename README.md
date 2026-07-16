@@ -3,7 +3,7 @@
 An AI-assisted Advanced Driver Assistance System (ADAS) integrated with IoT and Embedded Systems designed to prevent road accidents and ensure vehicle data monitoring in real-time.
 
 ## 📊 System Connection Diagram
-এখানে আপনার সার্কিট ডায়াগ্রামটি সরাসরি ডিসপ্লে হবে:
+
 ![Connection Diagram](Images/Connection%20Diagram.png)
 
 ## 🌟 Core Features & Modules
