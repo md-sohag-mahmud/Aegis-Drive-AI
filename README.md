@@ -6,10 +6,10 @@ An advanced Internet of Things (IoT) driven Advanced Driver Assistance System (A
 The functional data flow and complete wiring topology are fully documented below:
 
 ### 1. Functional System Block Diagram
-![Block Diagram](Images/block_diagram.png)
+![Block Diagram](Images/Block%20Diagram.png)
 
 ### 2. Complete Circuit Connection Diagram
-![Connection Diagram](Images/connection_diagram.png)
+![Connection Diagram](Images/Connection%20Diagram.png)
 
 ## 🌟 Core Features & Automated Logic
 - **Accident Prevention & Range Detection:** Uses an **Ultrasonic Sensor (HC-SR04)** to execute non-blocking frontal obstacle tracking. Triggers instant dashboard alerts if an object is within 15 cm.
